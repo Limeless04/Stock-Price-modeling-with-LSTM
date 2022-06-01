@@ -1,0 +1,13 @@
+#ignore all images
+*.png
+*.jpeg
+*.jpg
+
+#ignore folder
+LSTM batch 8/
+LSTM batch 16/
+LSTM batch 32/
+
+#ignore csv
+*.csv
+*.txt
